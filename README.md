@@ -18,7 +18,7 @@ counting 1 bits by 8bit registers (<code>74HC299</code>)
 <h2>
   Simulation <a href="https://www.labcenter.com/" target="new">Proteus</a>
 </h2>
-<h3>ALY</h3>
+<h3>ALU</h3>
 <p>overview</p>
 <img src="/static/ALU.PNG" style="width: 600px" />
 
